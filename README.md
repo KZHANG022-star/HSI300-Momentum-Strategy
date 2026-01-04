@@ -1,6 +1,8 @@
 # HSI300-Momentum-Strategy
 Inspired by the strong performance of SPMO, this strategy is designed to test the effectiveness of the momentum factor within the China large-cap index, namely the HSI300. The Invesco S&amp;P 500 Momentum ETF tracks the S&amp;P 500 Momentum Index, which selects S&amp;P 500 stocks with high momentum scores and weights them by market cap and momentum.
 ![image](https://github.com/KZHANG022-star/HSI300-Momentum-Strategy/blob/main/HSMO1.png)
+![image](https://github.com/KZHANG022-star/HSI300-Momentum-Strategy/blob/main/result.PNG)
+
 ## Overview
 This repository contains a complete backtesting system for momentum strategies on the CSI 300 Index (HSI300), inspired by the S&P 500 Momentum ETF (SPMO) methodology. The system consists of two main components: data collection (`getdata_exact.py`) and strategy backtesting (`mo_hsi300_exact_drift.py`).
 
